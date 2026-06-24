@@ -1,11 +1,11 @@
 ﻿{
 	"id": "OperationPauseTool",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"display_name": "Operation Pause Tool",
 	"description_short": "Toolbar tool to pause building operation only (not construction).",
 	"description_long": "Adds a cursor tool next to the vanilla pause tool. Left click or drag to pause operation on buildings under construction or fully built. Construction keeps going. Right click or drag to unpause. Hold Ctrl to include transports.",
 	"authors": [ "TheLoki" ],
-	"min_game_version": "0.8.3",
+	"min_game_version": "0.8.5",
 	"max_verified_game_version": "0.8.5",
 	"primary_dlls": [ "OperationPauseTool.dll" ],
 	"non_locking_dll_load": true,
