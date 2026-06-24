@@ -3,7 +3,7 @@
 A [Captain of Industry](https://www.captain-of-industry.com/) mod that adds a dedicated toolbar cursor tool for pausing **building operation only**. Construction keeps running.
 
 ## Disclaimer
-As I do not have any C++ or Unity knowledge, this modification is entirely vibe coded with "Cursor". Expect unchecked slop and such things. This mod was created to fill a personal gap for me and me alone. I am providing this mod if anyone else feels the need for such a tool too. Please don't come at me with comments about the quality of the code and use this mod **at your own risk**.
+As I do not have any C#, .NET or Unity knowledge, this modification is entirely vibe coded with "Cursor". Expect unchecked slop and such things. This mod was created to fill a personal gap for me and me alone. I am providing this mod if anyone else feels the need for such a tool too. Please don't come at me with comments about the quality of the code and use this mod **at your own risk**.
 
 ## Why this mod exists
 
