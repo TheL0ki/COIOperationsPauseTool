@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OperationPauseTool</name>
+    </assembly>
+    <members>
+        <member name="T:OperationPauseTool.OperationPauseToolMod">
+            <summary>
+            Mod entry point. Registers the operation-only pause cursor tool via DI.
+            </summary>
+        </member>
+        <member name="T:OperationPauseTool.Tools.OperationPauseToolController">
+            <summary>
+            Toolbar cursor tool that pauses entity operation only (not construction).
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KiVTLsiLqo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\programming\\COI_Operations_Pause\\src\\OperationPauseTool\\OperationPauseTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\AppData\\Local\\Temp\\cursor-sandbox-cache\\ce34454076c71bc633c8facb4fa10404\\nuget\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\alexa\\AppData\\Local\\Temp\\cursor-sandbox-cache\\ce34454076c71bc633c8facb4fa10404\\nuget\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
